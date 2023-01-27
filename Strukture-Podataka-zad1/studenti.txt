@@ -1,0 +1,3 @@
+Lorem	Ipsum	50
+Josip	Josipovic	70
+Ante	Antic	35
